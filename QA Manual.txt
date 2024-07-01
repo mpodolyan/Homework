@@ -1,1 +1,1 @@
-QA testers work closely with software developers, project managers, and other stakeholders throughout the development lifecycle.
+QA testers work closely with software developers, project managers, and other stakeholders throughout the development lifecycle.Their primary objective is to verify that the software meets the specified requirements and adheres to the established quality best practices.
